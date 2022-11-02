@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LoveDating.iml" filepath="$PROJECT_DIR$/.idea/modules/LoveDating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LoveDating.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LoveDating.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LoveDating.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LoveDating.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LoveDating.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LoveDating.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LoveDating.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LoveDating.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

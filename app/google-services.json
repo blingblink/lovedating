@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124499991026",
+    "project_id": "datingapp-a79b0",
+    "storage_bucket": "datingapp-a79b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124499991026:android:68317e3a043a3ccd07f36b",
+        "android_client_info": {
+          "package_name": "com.quintus.labs.datingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124499991026-o7m01pmaguv7revfbpnfnjo51sch0r02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSJccwIoENUpM6-gUBtia0ZehLBzy-ICY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124499991026-o7m01pmaguv7revfbpnfnjo51sch0r02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
